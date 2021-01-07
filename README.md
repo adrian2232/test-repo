@@ -1,6 +1,9 @@
-# test-repo
-this is a test
+# Introduction
 
- hello
-how are you nice to meet you
-////////
+This is a repository created by *Firstname*
+
+## Usage
+
+Run this command to execute the application:
+
+`python filename.py`
